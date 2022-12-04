@@ -12,12 +12,12 @@ Repeated questions could cause frustration and arguments. Dementia Bot is used t
 
 ### WIP High Level Plan / Roadmap
 
-major development steps, roadmap
+major development tasks, roadmap
 
-  - voice cloning using deep learning to clone voice of the peron relative to the patient (voice of a person trusted by patient).
+  - Voice cloning using deep learning to clone voice of the peron relative to the patient (voice of a person trusted by patient).
   - audio classification used to recognize dementia patient.
   - Chatbot to answer patient with the trusted persons voice(cloned voice).
-  - create Android app which enables and embeds above features
+  - Create Android app which enables and embeds above features
 
 ### Contributors
 
